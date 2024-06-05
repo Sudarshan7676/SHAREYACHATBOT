@@ -11,10 +11,10 @@ API_ID = int(getenv("API_ID", "6435225"))
 API_HASH = getenv("API_HASH", "4e984ea35f854762dcde906dce426c2d")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-BOT_TOKEN = getenv("BOT_TOKEN", None)
+BOT_TOKEN = getenv("BOT_TOKEN", "7200881779:AAEqV-AJXZsQLCbergT4MCkw1Pv_6nc5CDE")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-OWNER_ID = int(getenv("OWNER_ID", "6922271843"))
+OWNER_ID = int(getenv("OWNER_ID", "1001367070442"))
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority")
@@ -29,7 +29,7 @@ UPDATE_CHNL = getenv("UPDATE_CHNL", "ilovemove143")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "itz_me_rohu")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-BOT_USERNAME = getenv("BOT_USERNAME", None)
+BOT_USERNAME = getenv("BOT_USERNAME","Shreyaxchat_bot" )
 
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
