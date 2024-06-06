@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/tinaarobot/CHATBOT",
+  "repository": "https://github.com/Sudarshan7676/SHAREYACHATBOT",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
