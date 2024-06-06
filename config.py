@@ -17,7 +17,7 @@ BOT_TOKEN = getenv("BOT_TOKEN", "7200881779:AAEqV-AJXZsQLCbergT4MCkw1Pv_6nc5CDE"
 OWNER_ID = int(getenv("OWNER_ID", "1001367070442"))
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority")
+MONGO_URL = getenv("MONGO_URL", ""mongodb+srv://rohan754333:rohan5427282@cluster0.zojdu8u.mongodb.net/?retryWrites=true&w=majority&shreyachatbot=Cluster0")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 SUPPORT_GRP = getenv("SUPPORT_GRP", "ilovemovie123")
